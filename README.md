@@ -1,4 +1,4 @@
-##TODO
+## TODO
 1. Get [vim-plug](https://github.com/junegunn/vim-plug).
 ```sh
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
@@ -8,3 +8,4 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 ```sh
 make update_config
 ```
+3. Open neovim, run :PlugUpdate
